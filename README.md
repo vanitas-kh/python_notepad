@@ -47,7 +47,7 @@ python main.py
 
 ## License/s
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](https://github.com/vanitas-kh/python_notepad?tab=MIT-1-ov-file)
 
 ## Acknowledgements
 
