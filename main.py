@@ -17,7 +17,7 @@ class Notepad:
 
         # Set the program icon
         icon_image = tk.PhotoImage(file=os.path.join(
-            os.path.dirname(__file__), "notepad.gif"))
+            os.path.dirname(__file__), "notepad.png"))
         self.root.iconphoto(True, icon_image)
 
         # Initialize the text area and other UI components
